@@ -1,0 +1,38 @@
+
+html,body{
+    background-color: #6F3A1B;
+    color: #fff;
+    font-family: 'Karla', sans-serif;
+
+    display: flex;
+    height:100%;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+h1{
+    font-family: 'Vina Sans', sans-serif;
+    text-align: center;
+    font-weight: 600;
+}
+h2{
+    text-align: center;
+    font-size: 1em;
+}
+main{
+    display: flex;
+    justify-content: space-around;
+    background-color: #fff;
+}
+article{
+    display: flex;
+    flex-direction: column-reverse;
+    background-color: #1B506F;
+}
+img{
+    border-radius: 100%;
+}
+footer{
+    text-align: center;
+    font-weight: 100;
+}
